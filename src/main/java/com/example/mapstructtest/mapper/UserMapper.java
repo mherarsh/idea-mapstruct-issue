@@ -1,6 +1,8 @@
-package com.example.mapstructtest;
+package com.example.mapstructtest.mapper;
 
 
+import com.example.mapstructtest.User;
+import com.example.mapstructtest.UserDto;
 import org.mapstruct.*;
 
 @Mapper(builder = @Builder(disableBuilder = true),
