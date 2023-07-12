@@ -1,4 +1,4 @@
-package service;
+package com.example.mapstructtest.service;
 
 import com.example.mapstructtest.UserDto;
 
